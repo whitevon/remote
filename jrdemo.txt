@@ -1,3 +1,8 @@
 test
 different test
-1
+<<<<<<< HEAD
+2
+=======
+2
+
+>>>>>>> hotfix
